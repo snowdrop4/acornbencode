@@ -1,0 +1,8 @@
+[package]
+name = "acornbencode"
+version = "0.1.0"
+authors = ["snowdrop4"]
+edition = "2018"
+
+[dependencies]
+nom = "7.0"
